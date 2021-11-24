@@ -11,4 +11,6 @@
 0.0.0.0		an.facebook.com
 0.0.0.0		analyticsengine.s3.amazonaws.com
 0.0.0.0		aviary.amazon.com
+0.0.0.0		config.emb-api.com
 0.0.0.0		flirt4free.com
+0.0.0.0		traffic.alexa.com

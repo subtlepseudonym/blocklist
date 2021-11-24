@@ -1,0 +1,12 @@
+# Filtered domain regular expressions
+#
+# License: https://github.com/subtlepseudonym/blocklist/blob/master/LICENSE
+# Contact: subtlepseudonym@gmail.com
+#
+# This list contains domain regexes for brevity. They are intended
+# for use with pihole and therefore deviate from the unix hosts
+# file format.
+#
+#===============================================================
+
+^r(\.|^)googlevideo\.com$ # youtube ads

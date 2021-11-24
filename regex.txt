@@ -6,6 +6,9 @@
 # This list contains domain regexes for brevity. They are intended
 # for use with pihole and therefore deviate from the unix hosts
 # file format.
+# This list cannot be added to pihole as an adlist. Instead, each
+# domain must be added to the blacklist as a regex filter.
+#
 #
 #===============================================================
 
